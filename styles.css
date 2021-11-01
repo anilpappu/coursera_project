@@ -46,7 +46,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF00;
+	background-color: rgb(247, 179, 251);
 }
 
 #beef {
@@ -60,7 +60,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FF1439;
+	background-color: rgb(247, 179, 251);
 }
 
 #sushi {
@@ -73,7 +73,7 @@ section {
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #6495ED;
+	background-color: rgb(247, 179, 251);
 	color: white;
 	padding: 5px;
 }
